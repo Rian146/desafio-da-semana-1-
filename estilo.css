@@ -1,0 +1,46 @@
+body h1{ 
+    
+    color:black;
+    background-color: turquoise;
+    font-size: 70px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: line-through;
+    text-underline-position: below;
+    text-indent: 20px;
+    text-shadow: 4px 4px 3px yellow;
+    text-decoration-line: underline;
+    
+
+
+}
+
+body h2 { 
+    
+    
+    color:black;
+    background-color: turquoise;
+    font-size: 60px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+    text-shadow: 2px 2px 2px black ;
+    text-indent: 60px;
+    text-decoration-line: underline;
+    text-shadow: 4px 4px 3px yellow;
+
+
+
+}
+
+body  { 
+color: black;
+background-color: turquoise;
+font-size: 40px;
+text-align: justify;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: 100px;
+text-shadow: 2px 2px 2px yellow;
+text-indent: 60px;
+  }
+
